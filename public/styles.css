@@ -1,0 +1,22 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+main {
+  background-color: #fcfc0a;
+}
+
+#redBall {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  display: none;
+}
+
+#blueBall {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  display: none;
+}
