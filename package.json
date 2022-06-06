@@ -1,0 +1,23 @@
+{
+  "name": "krem.monks",
+  "version": "1.0.0",
+  "description": "Media.Monks Take Home Challenge",
+  "main": "server.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davidkrem/Krem.Monks.git"
+  },
+  "author": "David Kremenitzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davidkrem/Krem.Monks/issues"
+  },
+  "homepage": "https://github.com/Davidkrem/Krem.Monks#readme"
+}
