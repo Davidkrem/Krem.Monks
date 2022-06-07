@@ -28,8 +28,8 @@ For the last decade I have been a professional commercial/voice-over actor with 
 I live in NYC
 
 - [Portfolio Link](https://www.davidkrem.tech)
-- [https://github.com/Davidkrem](https://github.com/Davidkrem)
+- [GitHub Profile](https://github.com/Davidkrem)
 
 ### Live Demo
 
-- coming soon
+- [Demo](https://davidkrem.github.io/Krem.Monks/)
