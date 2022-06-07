@@ -61,6 +61,6 @@ convert.incrementBallCount = function () {
 const ballImg = document.getElementById(`${convert.getBallColor()}Ball`);
 const ballCount = document.getElementById('ballCount');
 ballImg.innerHTML = `${convert.displayImg()}`;
-ballCount.innerHTML = `Red Ball, Blue Ball! You viewed ${convert.getBallColor()} ${convert.incrementBallCount()} times, I recall!`;
+ballCount.innerHTML = `Your ${convert.getBallColor()} ball was viewed ${convert.incrementBallCount()} times!`;
 
 module.exports = convert;
