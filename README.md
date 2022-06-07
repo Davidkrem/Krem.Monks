@@ -30,6 +30,4 @@ I live in NYC
 - [Portfolio Link](https://www.davidkrem.tech)
 - [GitHub Profile](https://github.com/Davidkrem)
 
-### Live Demo
 
-- [Demo](https://davidkrem.github.io/Krem.Monks/)
